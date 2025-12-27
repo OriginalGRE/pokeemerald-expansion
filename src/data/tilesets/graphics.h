@@ -1634,3 +1634,22 @@ const u16 gTilesetPalettes_UnionRoom[][16] =
 };
 
 const u32 gTilesetTiles_UnionRoom[] = INCBIN_U32("data/tilesets/secondary/union_room/tiles.4bpp.fastSmol");
+
+const u16 gTilesetPalettes_platinum_demo[][16] =
+{
+    INCBIN_U16("data/tilesets/primary/platinum_demo/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/primary/platinum_demo/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/primary/platinum_demo/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/primary/platinum_demo/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/primary/platinum_demo/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/primary/platinum_demo/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/primary/platinum_demo/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/primary/platinum_demo/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/primary/platinum_demo/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/primary/platinum_demo/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/primary/platinum_demo/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/primary/platinum_demo/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/primary/platinum_demo/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_platinum_demo[] = INCBIN_U32("data/tilesets/primary/platinum_demo/tiles.4bpp.lz");
