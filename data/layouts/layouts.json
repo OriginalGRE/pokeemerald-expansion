@@ -46,7 +46,7 @@
       "name": "FortreeCity_Layout",
       "width": 40,
       "height": 20,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_platinum_demo",
       "secondary_tileset": "gTileset_Fortree",
       "border_filepath": "data/layouts/FortreeCity/border.bin",
       "blockdata_filepath": "data/layouts/FortreeCity/map.bin"
@@ -4417,9 +4417,19 @@
       "width": 20,
       "height": 26,
       "primary_tileset": "gTileset_platinum_demo",
-      "secondary_tileset": "gTileset_Petalburg",
+      "secondary_tileset": "gTileset_twinleaf",
       "border_filepath": "data/layouts/TwinleafTown/border.bin",
       "blockdata_filepath": "data/layouts/TwinleafTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_IMPORT_TEST_MAP",
+      "name": "ImportTestMap_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Twinleaf",
+      "border_filepath": "data/layouts/ImportTestMap/border.bin",
+      "blockdata_filepath": "data/layouts/ImportTestMap/map.bin"
     }
   ]
 }

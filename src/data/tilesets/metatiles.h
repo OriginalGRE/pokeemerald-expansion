@@ -210,3 +210,6 @@ const u16 gMetatileAttributes_UnionRoom[] = INCBIN_U16("data/tilesets/secondary/
 
 const u16 gMetatiles_platinum_demo[] = INCBIN_U16("data/tilesets/primary/platinum_demo/metatiles.bin");
 const u16 gMetatileAttributes_platinum_demo[] = INCBIN_U16("data/tilesets/primary/platinum_demo/metatile_attributes.bin");
+
+const u16 gMetatiles_twinleaf[] = INCBIN_U16("data/tilesets/secondary/twinleaf/metatiles.bin");
+const u16 gMetatileAttributes_twinleaf[] = INCBIN_U16("data/tilesets/secondary/twinleaf/metatile_attributes.bin");

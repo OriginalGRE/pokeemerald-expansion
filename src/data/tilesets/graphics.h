@@ -1653,3 +1653,22 @@ const u16 gTilesetPalettes_platinum_demo[][16] =
 };
 
 const u32 gTilesetTiles_platinum_demo[] = INCBIN_U32("data/tilesets/primary/platinum_demo/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_twinleaf[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/twinleaf/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_twinleaf[] = INCBIN_U32("data/tilesets/secondary/twinleaf/tiles.4bpp.lz");
