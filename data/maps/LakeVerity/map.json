@@ -1,7 +1,7 @@
 {
-  "id": "MAP_TWINLEAF_TOWN",
-  "name": "TwinleafTown",
-  "layout": "LAYOUT_TWINLEAF_TOWN",
+  "id": "MAP_LAKE_VERITY",
+  "name": "LakeVerity",
+  "layout": "LAYOUT_LAKE_VERITY",
   "music": "MUS_DUMMY",
   "region_map_section": "MAPSEC_ABANDONED_SHIP",
   "requires_flash": false,
@@ -12,13 +12,7 @@
   "allow_running": false,
   "show_map_name": true,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
-  "connections": [
-    {
-      "map": "MAP_ROUTE201",
-      "offset": -22,
-      "direction": "up"
-    }
-  ],
+  "connections": null,
   "object_events": [],
   "warp_events": [],
   "coord_events": [],
