@@ -490,7 +490,7 @@
     },
     {
       "id": "MAPSEC_ABANDONED_SHIP",
-      "name": "ABANDONED SHIP",
+      "name": "TWINLEAF TOWN",
       "x": 6,
       "y": 14,
       "width": 1,
@@ -1230,6 +1230,18 @@
       "y": 4,
       "width": 1,
       "height": 1
+    },
+    {
+      "id": "MAPSEC_TWINLEAF_TOWN",
+      "name": "TWINLEAF TOWN"
+    },
+    {
+      "id": "MAPSEC_ROUTE_201",
+      "name": "ROUTE 201"
+    },
+    {
+      "id": "MAPSEC_LAKE_VERITY",
+      "name": "LAKE VERITY"
     }
   ]
 }

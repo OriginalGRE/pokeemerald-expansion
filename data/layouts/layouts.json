@@ -4422,16 +4422,6 @@
       "blockdata_filepath": "data/layouts/TwinleafTown/map.bin"
     },
     {
-      "id": "LAYOUT_IMPORT_TEST_MAP",
-      "name": "ImportTestMap_Layout",
-      "width": 20,
-      "height": 20,
-      "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Twinleaf",
-      "border_filepath": "data/layouts/ImportTestMap/border.bin",
-      "blockdata_filepath": "data/layouts/ImportTestMap/map.bin"
-    },
-    {
       "id": "LAYOUT_ROUTE201",
       "name": "Route201_Layout",
       "width": 80,
@@ -4444,12 +4434,22 @@
     {
       "id": "LAYOUT_LAKE_VERITY",
       "name": "LakeVerity_Layout",
-      "width": 60,
-      "height": 40,
+      "width": 36,
+      "height": 36,
       "primary_tileset": "gTileset_platinum_demo",
-      "secondary_tileset": "gTileset_Petalburg",
+      "secondary_tileset": "gTileset_Rustboro",
       "border_filepath": "data/layouts/LakeVerity/border.bin",
       "blockdata_filepath": "data/layouts/LakeVerity/map.bin"
+    },
+    {
+      "id": "LAYOUT_PLAYER_HOUSE_2F",
+      "name": "PlayerHouse_2F_Layout",
+      "width": 10,
+      "height": 10,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/PlayerHouse_2F/border.bin",
+      "blockdata_filepath": "data/layouts/PlayerHouse_2F/map.bin"
     }
   ]
 }
