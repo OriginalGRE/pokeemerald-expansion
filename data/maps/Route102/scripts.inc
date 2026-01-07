@@ -1,5 +1,10 @@
 Route102_MapScripts::
+map_script MAP_SCRIPT_ON_RESUME, Route102_OnResume
 	.byte 0
+
+Route102_OnResume:
+	setstepcallback STEP_CB_TIMED_RIPPLE
+	end
 
 Route102_EventScript_LittleBoy::
 	msgbox Route102_Text_ImNotVeryTall, MSGBOX_NPC
